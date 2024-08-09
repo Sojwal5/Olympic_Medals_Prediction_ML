@@ -24,7 +24,7 @@ Year,Team,Athletes,Prev_Medals,Medals
 
 File overview:
 
-* `machine_learning.ipynb` - the main project code
+* `Linear Regression_Olymic Medals` - the main project code
 * `teams.csv` -athlete-level dataset
 
 # Python packages used
